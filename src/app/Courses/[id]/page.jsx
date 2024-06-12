@@ -2,12 +2,10 @@
 
 import React from 'react';
 import Courses from "../../../../public/Courses.json";
-import { usePathname } from 'next/navigation';
 import { useParams } from 'next/navigation';
 import Image from 'next/image';
 
 const Cour = () => {
-  const pathname = usePathname();
   const params = useParams();
   const course = Courses.find(course => course.id === parseInt(params.id));
 
