@@ -1,7 +1,7 @@
 "use client";
 
 import React from 'react';
-import Services from "../../../../public/services.json";
+import Services from "../../../../public/Services.json";
 import { usePathname } from 'next/navigation';
 import { useParams } from 'next/navigation';
 import Image from 'next/image';
