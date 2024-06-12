@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Intensive Japanese Language Program",
+        "description": "A comprehensive program designed to help students achieve fluency in Japanese.",
+        "image": "jp.jpg",
+        "details": {
+            "duration": "6 months",
+            "schedule": "Monday to Friday, 9 AM - 12 PM",
+            "highlights": [
+                "Daily immersive classes",
+                "Experienced native instructors",
+                "Cultural immersion activities",
+                "Preparation for JLPT (Japanese Language Proficiency Test)"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Korean Language and Culture Program",
+        "description": "A program that combines language learning with cultural experiences.",
+        "image": "ko.jpg",
+        "details": {
+            "duration": "4 months",
+            "schedule": "Monday, Wednesday, Friday, 10 AM - 1 PM",
+            "highlights": [
+                "Interactive language classes",
+                "Cultural workshops and field trips",
+                "Opportunities to interact with native speakers",
+                "Preparation for TOPIK (Test of Proficiency in Korean)"
+            ]
+        }
+    }
+]

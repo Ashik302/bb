@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Japanese Language",
+        "description": "Learn Japanese from basic to advanced levels.",
+        "image": "japan.jpg",
+        "details": "Our Japanese courses cover grammar, vocabulary, conversation, and cultural insights to help you achieve fluency.",
+        "points": [
+            "Basic to Advanced Levels",
+            "Grammar and Vocabulary",
+            "Speaking and Listening Practice",
+            "Cultural Insights and Traditions",
+            "JLPT Exam Preparation"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Korean Language",
+        "description": "Master Korean with our comprehensive courses.",
+        "image": "korea.jpg",
+        "details": "Our Korean language courses are designed for all levels, focusing on speaking, listening, reading, and writing skills.",
+        "points": [
+            "Beginner to Proficiency Levels",
+            "Focus on Grammar and Vocabulary",
+            "Speaking and Listening Practice",
+            "Korean Culture and History",
+            "TOPIK Exam Preparation"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "PTE Classes",
+        "description": "Prepare for your PTE exams with our expert guidance.",
+        "image": "pte.jpg",
+        "details": "Our PTE preparation classes include practice tests, expert tips, and strategies to help you score high on the exam.",
+        "points": [
+            "Comprehensive Test Preparation",
+            "Practice Tests and Mock Exams",
+            "Expert Tips and Strategies",
+            "Focus on Speaking, Writing, Reading, and Listening",
+            "Time Management Techniques"
+        ]
+    }
+]

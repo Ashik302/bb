@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Visa Application Assistance",
+        "description": "Get expert help with your visa application process.",
+        "image": "va.jpg",
+        "details": "Our visa application assistance includes comprehensive guidance on required documents, application procedures, and interview preparation.",
+        "points": [
+            "Document Preparation",
+            "Application Submission",
+            "Interview Coaching",
+            "Status Tracking",
+            "Personalized Support"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Translation Services",
+        "description": "Professional translation services for documents and communication.",
+        "image": "ts.jpg",
+        "details": "Our translation services cover a wide range of languages and ensure accuracy and confidentiality for all your documents and communication needs.",
+        "points": [
+            "Document Translation",
+            "Interpretation Services",
+            "Certified Translations",
+            "Multilingual Support",
+            "Confidential Handling"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Cultural Exchange Programs",
+        "description": "Participate in enriching cultural exchange programs.",
+        "image": "cep.jpg",
+        "details": "Our cultural exchange programs offer opportunities to immerse yourself in new cultures, learn new languages, and build lasting relationships.",
+        "points": [
+            "Language Immersion",
+            "Homestay Opportunities",
+            "Cultural Workshops",
+            "International Networking",
+            "Personal Growth"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Accommodation Assistance",
+        "description": "Find suitable accommodation with our expert assistance.",
+        "image": "aa.jpg",
+        "details": "Our accommodation assistance services help you find safe and comfortable housing that meets your needs and budget.",
+        "points": [
+            "Housing Search",
+            "Lease Negotiation",
+            "Temporary Housing",
+            "Roommate Matching",
+            "Local Support"
+        ]
+    }
+]
